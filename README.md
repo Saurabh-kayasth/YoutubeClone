@@ -3,7 +3,7 @@
 Youtube Clone with React-Native.
 
 **STEPS :**
-  - git clone https://github.com/Saurabh-kayasth/YoutubepClone.git
+  - git clone https://github.com/Saurabh-kayasth/YoutubeClone.git
 
   - npm install
 
