@@ -12,4 +12,5 @@ Youtube Clone with React-Native.
   - react-native run-android
 
 **SCREENSHOT :**
-![thumbnail](https://user-images.githubusercontent.com/30195666/84308608-6e1e5f00-ab7c-11ea-816d-54b479a5ed49.png)
+![thumbnail2](https://user-images.githubusercontent.com/30195666/90257198-763c9880-de64-11ea-8660-016120f27558.png)
+
